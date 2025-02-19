@@ -1,5 +1,7 @@
 import React from 'react'
 
+import { ButtonPrimary, ButtonOutline } from "./Button.jsx"
+
 const Hero = () => {
   return (
     <section id="home" className ="pt-28 lg:pt-36">
@@ -28,9 +30,16 @@ const Hero = () => {
                     Full Stack Web Developer
                 </h2>
                 <div className="flex items-center gap-3">
-                    Button Primary 
+                    <ButtonPrimary 
+                        label="Download Resume"
+                        icon="download"
+                    />
 
-                    Button Outline
+                    <ButtonOutline
+                        href='#about'
+                        label="Scoll Down"
+                        icon="arrow_downward"
+                    />
                 </div>
             </div>
 
