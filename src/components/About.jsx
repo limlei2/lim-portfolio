@@ -22,7 +22,10 @@ const About = () => {
                 <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
                     Welcome to my webpage! My name is Lim Lei, a professional dedicated 
                     Full Stack Developer. I am a recent graduate from the University of 
-                    Toronto
+                    Toronto and I am primed and ready to join the workforce. I am a very 
+                    dedicated and passionate individual, with great project experience to 
+                    back up my expertise in the field. If you are interested don't hesitate 
+                    to reach out!
                 </p>
 
                 <div className="flex flex-wrap items-center gap-4 md:gap-7">
