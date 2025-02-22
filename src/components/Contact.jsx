@@ -2,17 +2,17 @@ import React from 'react'
 
 const socialLinks = [
     {
-        href: "",
+        href: "https://github.com/limlei2",
         imgSrc: "",
         alt: "GitHub",
     },
     {
-        href: "",
+        href: "https://www.linkedin.com/in/limlei2/",
         imgSrc: "",
         alt: "LinkedIn",
     },
     {
-        href: "",
+        href: "https://www.instagram.com/limlei2/",
         imgSrc: "",
         alt: "Instagram",
     },
