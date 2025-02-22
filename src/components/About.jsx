@@ -24,7 +24,7 @@ const About = () => {
                     Full Stack Developer. I am a recent graduate from the University of 
                     Toronto and I am primed and ready to join the workforce. I am a very 
                     dedicated and passionate individual, with great project experience to 
-                    back up my expertise in the field. If you are interested don't hesitate 
+                    back up my expertise in the field. If you are interested, don't hesitate 
                     to reach out!
                 </p>
 

@@ -3,7 +3,7 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
-        imgSrc: '',
+        imgSrc: '/proj-nicholas.png',
         title: 'Project Nicholas',
         tags: ["E-commerce", "Full Stack"]
     },
