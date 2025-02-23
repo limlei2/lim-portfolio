@@ -69,11 +69,11 @@ const Skills = () => {
   return (
     <section className="section">
       <div className="container">
-        <h2 className="headline-2">
+        <h2 className="headline-2 reveal-up">
           Tools I Am Familiar With
         </h2>
 
-        <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch]">
+        <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch] reveal-up">
           These are the tools I always use and am extremely fluent in to be able to create and design high-functioning webpages.
         </p>
 
@@ -85,6 +85,7 @@ const Skills = () => {
                 imgSrc={imgSrc}
                 label={label}
                 desc={desc}
+                classes="reveal-up"
               />
             ))
           }
