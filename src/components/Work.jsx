@@ -3,19 +3,22 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
-        imgSrc: '/proj-nicholas.png',
+        imgSrc: '/images/proj-nicholas.png',
         title: 'Project Nicholas',
-        tags: ["E-commerce", "Full Stack"]
+        tags: ["E-commerce", "Full Stack"],
+        projectLink: "https://github.com/limlei2/project-nicholas/tree/main"
     },
     {
         imgSrc: '',
         title: 'eBeauty',
-        tags: ["E-commerce", "Full Stack"]
+        tags: ["E-commerce", "Full Stack"],
+        projectLink: "https://github.com/limlei2/finalprojects22-ebeauty/tree/main"
     },
     {
         imgSrc: '',
         title: 'FinanceBuddy',
-        tags: ["CRUD", "Java"]
+        tags: ["CRUD", "Java"],
+        projectLink: ""
     }
 ];
 
@@ -27,12 +30,13 @@ const Work = () => {
                 My Portfolio Highlights
             </h2>
             <div className="grid gap-x-4 gap-y-5 grid-cols-[repeat(auto-fill,_minmax(280px,_1fr))]">
-                {works.map(({ imgSrc, title, tags }, key) => (
+                {works.map(({ imgSrc, title, tags, projectLink }, key) => (
                     <ProjectCard
                         key={key}
                         imgSrc={imgSrc}
                         title={title}
                         tags={tags}
+                        projectLink={projectLink}
                         classes="reveal-up"
                     />
                 ))}
