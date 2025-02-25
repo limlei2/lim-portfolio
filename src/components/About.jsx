@@ -20,7 +20,7 @@ const About = () => {
         <div className="container">
             <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
                 <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-                    Welcome to my webpage! My name is Lim Lei, a professional dedicated 
+                    Welcome to my webpage! My name is Lim Lei, a professional and dedicated 
                     Full Stack Developer. I am a recent graduate from the University of 
                     Toronto and I am primed and ready to join the workforce. I am a very 
                     dedicated and passionate individual, with great project experience to 
