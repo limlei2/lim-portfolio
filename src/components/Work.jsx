@@ -15,7 +15,7 @@ const works = [
         projectLink: "https://github.com/limlei2/finalprojects22-ebeauty/tree/main"
     },
     {
-        imgSrc: '',
+        imgSrc: '/images/financebuddy.png',
         title: 'FinanceBuddy',
         tags: ["CRUD", "Java"],
         projectLink: ""
