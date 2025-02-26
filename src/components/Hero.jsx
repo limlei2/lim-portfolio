@@ -30,7 +30,9 @@ const Hero = () => {
                     Full Stack Developer
                 </h2>
                 <div className="flex items-center gap-3">
-                    <ButtonPrimary 
+                    <ButtonPrimary
+                        href='https://drive.google.com/file/d/1wbRPS56Os0FryawMbEKfkW2KlaGXRUO5/view?usp=sharing'
+                        target="_blank" 
                         label="Download Resume"
                         icon="download"
                     />
