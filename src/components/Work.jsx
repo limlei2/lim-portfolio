@@ -5,19 +5,19 @@ const works = [
     {
         imgSrc: '/images/proj-nicholas.png',
         title: 'Project Nicholas',
-        tags: ["E-commerce", "Full Stack"],
+        tags: ["E-commerce", "MERN Stack"],
         projectLink: "https://github.com/limlei2/project-nicholas/tree/main"
     },
     {
-        imgSrc: '',
+        imgSrc: '/images/ebeauty.png',
         title: 'eBeauty',
-        tags: ["E-commerce", "Full Stack"],
+        tags: ["E-commerce", "MERN Stack"],
         projectLink: "https://github.com/limlei2/finalprojects22-ebeauty/tree/main"
     },
     {
         imgSrc: '/images/financebuddy.png',
         title: 'FinanceBuddy',
-        tags: ["CRUD", "Java"],
+        tags: ["CRUD App", "Java", "MySQL"],
         projectLink: ""
     }
 ];
