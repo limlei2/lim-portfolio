@@ -53,6 +53,11 @@ const skillItems = [
     desc: "Database"
   },
   {
+    imgSrc: "/images/docker.svg",
+    label: "Docker",
+    desc: "Containerization"
+  },
+  {
     imgSrc: "/images/aws.svg",
     label: "AWS",
     desc: "Cloud Computing"
