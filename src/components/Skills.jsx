@@ -13,6 +13,11 @@ const skillItems = [
     desc: "User Interface"
   },
   {
+    imgSrc: "/images/tailwind.svg",
+    label: "Tailwind CSS",
+    desc: "User Interface"
+  },
+  {
     imgSrc: "/images/html.svg",
     label: "HTML",
     desc: "Web Design"
@@ -21,6 +26,16 @@ const skillItems = [
     imgSrc: "/images/react.svg",
     label: "React",
     desc: "Frontend Framework"
+  },
+  {
+    imgSrc: "/images/angular.svg",
+    label: "Angular",
+    desc: "Frontend Framework"
+  },
+  {
+    imgSrc: "/images/spring-boot.svg",
+    label: "Spring Boot",
+    desc: "Java Framework"
   },
   {
     imgSrc: "/images/expressjs.svg",
