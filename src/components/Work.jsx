@@ -3,6 +3,12 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
+        imgSrc: '/images/lims-toolbox.png',
+        title: 'Lims AI Toolbox',
+        tags: ["Angular", "Spring Boot", "Maven", "Tailwind", "OpenAI", "Gemini"],
+        projectLink: "https://lims-toolbox.netlify.app/"
+    },
+    {
         imgSrc: '/images/proj-nicholas.png',
         title: 'Project Nicholas',
         tags: ["E-commerce", "MERN Stack", "JWT", "OAuth 2.0", "MVC"],
