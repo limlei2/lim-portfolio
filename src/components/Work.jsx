@@ -3,6 +3,12 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
+        imgSrc: '/images/to-the-moon.png',
+        title: 'to-the-moon Machine Learning Stock Tracker',
+        tags: ["MERN Stack", "Python", "Recharts", "Machine Learning", "scikitlearn"],
+        projectLink: "https://github.com/limlei2/to-the-moon"
+    },
+    {
         imgSrc: '/images/lims-toolbox.png',
         title: 'Lims AI Toolbox',
         tags: ["Angular", "Spring Boot", "Maven", "Tailwind", "OpenAI", "Gemini"],
