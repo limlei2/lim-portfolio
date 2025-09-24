@@ -3,6 +3,12 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
+        imgSrc: '/images/nestle-chatbot.png',
+        title: 'MadeWithNestle.ca AI Web Scraper and Chatbot',
+        tags: ["React", "FastAPI", "Azure AI Search", "Langchain", "Playwright"],
+        projectLink: "https://github.com/limlei2/nestle-chatbot"
+    },
+    {
         imgSrc: '/images/to-the-moon.png',
         title: 'to-the-moon Machine Learning Stock Tracker',
         tags: ["MERN Stack", "Python", "Recharts", "Machine Learning", "scikitlearn"],
@@ -12,7 +18,7 @@ const works = [
         imgSrc: '/images/lims-toolbox.png',
         title: 'Lims AI Toolbox',
         tags: ["Angular", "Spring Boot", "Maven", "Tailwind", "OpenAI", "Gemini"],
-        projectLink: "https://lims-toolbox.netlify.app/"
+        projectLink: "https://github.com/limlei2/LimsAIToolbox"
     },
     {
         imgSrc: '/images/proj-nicholas.png',
